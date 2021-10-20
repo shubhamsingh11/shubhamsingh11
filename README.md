@@ -43,7 +43,6 @@
 <!-- Contribution Graph -->
 
 <br>
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=shubhamsingh11&theme=xcode" /></p>
     
 
 [website]: https://shubhamsingh11.github.io/
