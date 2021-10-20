@@ -33,10 +33,18 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-</details>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shubhamsingh11&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 
+<br><br>
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shubhamsingh11&layout=compact&theme=radical" />
+<br>
+  
+<!-- Contribution Graph -->
+
+<br>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=shubhamsingh11&theme=xcode" /></p>
+    
 
 [website]: https://shubhamsingh11.github.io/
 [twitter]: https://twitter.com/cule1109
